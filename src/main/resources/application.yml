@@ -1,0 +1,9 @@
+server:
+  port: 5000
+  servlet:
+    context-path: /telegram-bot/v1
+
+bot:
+  BOT_TOKEN: test_token
+  BOT_USERNAME: test
+
